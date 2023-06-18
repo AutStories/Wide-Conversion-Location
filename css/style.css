@@ -79,23 +79,21 @@ p{
 }
 
 @media (max-width: 375px){
+    *{
+        position: relative;
+    }
     .header-link{
         display: none;
     }
 
     .button-header{
-        position: relative;
         left: 170px;
         right: 10px;
         bottom: 17px;
         width: 91px;
         height: 31px;
     }
-    .main-image{
-        top: 1200px;
-    }
     section{
-        position: relative;
         margin-left: 84.98px;
         bottom: 600px;
     }
@@ -107,5 +105,16 @@ p{
         line-height: 30px;
         text-align: center;
         letter-spacing: 0.6px;
+    }
+    p{
+        width: 278px;
+        height: 165px;
+        font-weight: 400;
+        font-size: 18px;
+        font-style: normal;
+        line-height: 33px;
+        letter-spacing: 0.5px;
+        color: #4B505A;
+        text-align: center;
     }
 }

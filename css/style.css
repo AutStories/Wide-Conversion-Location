@@ -71,6 +71,7 @@ p{
     font-size: 18px;
     line-height: 27px;
     height: 27px;
+    letter-spacing: 1px;
     color: #6FBF44;
     border: none;
     margin-top: 55px;
@@ -87,15 +88,18 @@ p{
     }
 
     .button-header{
-        left: 170px;
-        right: 10px;
+        left: 150px;
         bottom: 17px;
         width: 91px;
         height: 31px;
     }
     section{
-        margin-left: 84.98px;
         bottom: 600px;
+    }
+    .main-image{
+        width: 312px;
+        align-items: center;
+        top: 90px
     }
     h1{
         width: 278px;
@@ -107,6 +111,7 @@ p{
         letter-spacing: 0.6px;
     }
     p{
+        top: 100px;
         width: 278px;
         height: 165px;
         font-weight: 400;
@@ -116,5 +121,15 @@ p{
         letter-spacing: 0.5px;
         color: #4B505A;
         text-align: center;
+        right: 70px;
+    }
+    .button-main{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 27px;
+        height: 27px;
+        width: 124px;
+        top: 60px;
     }
 }

@@ -5,5 +5,6 @@
 [Click here to acess this page](https://autstories.github.io/Wide-Conversion-Location/)<br><br>
 ### Screenshots: 
 <br>
-<img src="assets/desktop.png">
-<img src="assets/mobileIphoneSE.png">
+
+![Desktop Screenshot](/assets/desktop.png)
+![IphoneSE Screenshot](/assets/mobileIphoneSE.png)

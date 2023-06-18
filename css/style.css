@@ -20,6 +20,7 @@ header{
     margin-right: 36px;
     font-style: normal;
     cursor: pointer;
+    text-decoration: none;
 }
 .button-header{
     color: #FFFFFF;
@@ -74,4 +75,19 @@ p{
     margin-top: 55px;
     cursor: pointer;
     background: transparent;
+}
+
+@media (max-width: 375px){
+    .header-link{
+        display: none;
+    }
+
+    .button-header{
+        position: relative;
+        left: 170px;
+        right: 10px;
+        bottom: 17px;
+        width: 91px;
+        height: 31px;
+    }
 }

@@ -6,8 +6,7 @@
 ### To-do
 - [x] Desktop Version
 - [ ] Responsive for IphoneSE
-- [ ] Add other pages
-<br>
+- [ ] Add other pages<br>
 ### Screenshots: 
 <br>
 

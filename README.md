@@ -10,5 +10,5 @@
 ### Screenshots: 
 <br>
 
-![Desktop Screenshot](/assets/desktop.png)
+![Desktop Screenshot](/assets/desktop%20(1366%20x%20768).png)
 ![IphoneSE Screenshot](/assets/mobileIphoneSE.png)

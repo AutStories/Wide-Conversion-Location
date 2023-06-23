@@ -5,7 +5,7 @@
 [Click here to acess this page](https://autstories.github.io/Wide-Conversion-Location/)<br><br>
 ### To-do
 - [x] Desktop Version
-- [ ] Responsive for IphoneSE
+- [x] Responsive for IphoneSE
 - [ ] Add other pages<br>
 ### Screenshots: 
 <br>

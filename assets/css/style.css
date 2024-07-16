@@ -91,35 +91,35 @@ p{
     }
 
     .button-header{
-        left: 200px;
-        bottom: 17px;
-        width: 91px;
-        height: 31px;
+        left: 53.333333333333336vw;
+        bottom: 2.549vh;
+        width: 24.266666666666666vw;
+        height: 4.648vh;
     }
     section{
-        bottom: 600px;
-        right: 40px;
+        bottom: 89.955vh;
+        right: 10.666666666666666vw;
         text-align: center;
     }
     .main-image{
-        width: 100%;
+        width: 99%;
         align-items: center;
-        top: 250px;
+        top: 37.481vh;
     }
     h1{
-        width: 278px;
-        height: 60px;
-        font-weight: 700px;
-        font-size: 30px;
-        line-height: 30px;
+        width: 74.13333333333334vw;
+        height: 8.996vh;
+        font-weight: 700;
+        font-size: 8vw;
+        line-height: 4.498vh;
         letter-spacing: 0.6px;
         /* top: 180px;
         right: 70px; */
     }
     p{
-        top: 170px;
-        width: 278px;
-        height: 165px;
+        top: 25.487vh;
+        width: 74.13333333333334vw;
+        height: 24.738vh;
         font-weight: 400;
         font-size: 18px;
         font-style: normal;
@@ -131,10 +131,10 @@ p{
     .button-main{
         font-style: normal;
         font-weight: 500;
-        font-size: 18px;
-        line-height: 27px;
-        height: 27px;
-        width: 124px;
-        top: 140px;
+        font-size: 4.8vw;
+        line-height: 4.048vh;
+        height: 4.048vh;
+        width: 33.06666666666667vw;
+        top: 20.99vh;
     }
 }

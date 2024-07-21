@@ -6,6 +6,8 @@
 ### To-do
 - [x] Desktop Version
 - [x] Responsive for IphoneSE
+- [ ] Responsive for Ipad Pro
+- [ ] UX heuristics
 - [ ] Add other pages<br>
 ### Screenshots: 
 <br>

@@ -8,6 +8,7 @@
 - [x] Responsive for IphoneSE
 - [ ] Responsive for Ipad Pro
 - [ ] UX heuristics
+- [ ] Mockup for show in each device
 - [ ] Add other pages<br>
 ### Screenshots: 
 <br>
